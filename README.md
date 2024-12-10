@@ -1,5 +1,5 @@
 ## Emissions Project: GDP, CO2, and the Green(er) Future 🌍💡
-Welcome to my emissions project! Here, we explore the fascinating (and sometimes alarming) relationship between CO2 emissions and GDP per capita across the globe. This journey combines history, economics, climate science, and data to answer a bold hypothesis:
+  Welcome to my emissions project! Here, we explore the fascinating (and sometimes alarming) relationship between CO2 emissions and GDP per capita across the globe. This journey combines history, economics, climate science, and data to answer a bold hypothesis:
 
 "Will rising GDP always mean rising CO2 emissions in the future?"
 
