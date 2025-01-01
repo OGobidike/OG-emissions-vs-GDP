@@ -30,15 +30,6 @@ Plotly: For interactive, and zoomable graphs.
 📈 Prediction Analysis
 Using predictive modeling, I peek into the future to see how GDP and CO2 emissions might evolve globally. Spoiler alert: it’s looking green! 🌿
 
-📸 Sneak Peek into the Project
-1️⃣ CO2 Emissions vs. GDP Per Capita
-(Scatterplot showing a positive correlation up to a threshold, with diminishing returns at higher GDP levels.)
-
-2️⃣ CO2 Emissions Over Time in High-GDP Countries
-(Line graph highlighting Germany’s and France’s low-carbon trajectories.)
-
-3️⃣ Global Trends Heatmap
-(Heatmap showing per capita emissions for different countries over the decades.)
 
 🛠️ How This Project Was Built
 Tools & Techniques:
